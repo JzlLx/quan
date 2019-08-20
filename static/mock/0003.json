@@ -1,0 +1,31 @@
+{
+    "ret": true,
+    "data": {
+      "sightName": "锦绣春江温泉城",
+      "bannerImg": "http://img1.qunarzz.com/sight/p0/1511/89/894fa87d78ab240890.water.jpg_350x240_ca830e6d.jpg",
+      "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/201301/11/351eb5458d2f4c2b93835fbb.png_350x240_73402c31.png",
+        "http://img1.qunarzz.com/sight/p0/1511/df/df0e341248c62a9c90.water.jpg_350x240_04d05cfd.jpg",
+        "http://img1.qunarzz.com/sight/p0/1511/13/13ad51038719410f90.water.jpg_350x240_628287d5.jpg"],
+      "categoryList": [{
+          "title": "成人票",
+          "children": [{
+            "title": "成人三馆联票",
+            "children": [{
+              "title": "成人三馆联票 - 某一连锁店销售"
+            }]
+          },{
+            "title": "成人五馆联票"
+          }]
+        }, {
+          "title": "学生票"
+        }, {
+          "title": "儿童票"
+        }, {
+          "title": "特惠票"
+        }]
+      
+    }
+      
+      
+  }
+  

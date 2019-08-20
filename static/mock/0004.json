@@ -1,0 +1,31 @@
+{
+    "ret": true,
+    "data": {
+      "sightName": "南沙百万葵园",
+      "bannerImg": "http://img1.qunarzz.com/sight/p0/1603/3c/3c514c20a740128b90.water.jpg_350x240_c3d5f873.jpg",
+      "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1508/89/895a1b7add84f23faca053ce9e3153db.water.jpg_350x240_5291130a.jpg",
+        "http://img1.qunarzz.com/sight/p0/1509/ff/2460ee83aebb151955776d816663bfa5.water.jpg_350x240_65760307.jpg",
+        "http://img1.qunarzz.com/sight/p0/1702/78/784db65a941116cfa3.img.jpg_350x240_82532fed.jpg"],
+      "categoryList": [{
+          "title": "成人票",
+          "children": [{
+            "title": "成人三馆联票",
+            "children": [{
+              "title": "成人三馆联票 - 某一连锁店销售"
+            }]
+          },{
+            "title": "成人五馆联票"
+          }]
+        }, {
+          "title": "学生票"
+        }, {
+          "title": "儿童票"
+        }, {
+          "title": "特惠票"
+        }]
+      
+    }
+      
+      
+  }
+  

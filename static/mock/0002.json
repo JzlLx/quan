@@ -1,0 +1,30 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "长隆欢乐世界(AAAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1707/f4/f44d291b76de7b14a3.img.jpg_600x330_b3db0db7.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1707/d0/d0fe45053ae96ea8a3.img.jpg_350x240_c80568bf.jpg",
+      "http://img1.qunarzz.com/sight/p0/1505/cd/cd2127bb4d06c487.water.jpg_350x240_1e8f2130.jpg",
+      "http://img1.qunarzz.com/sight/p0/1707/d3/d3fecf2c578296bba3.img.jpg_350x240_5a99374f.jpg"],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "成人五馆联票"
+        }]
+      }, {
+        "title": "学生票"
+      }, {
+        "title": "儿童票"
+      }, {
+        "title": "特惠票"
+      }]
+    
+  }
+    
+    
+}
